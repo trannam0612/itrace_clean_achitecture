@@ -1,0 +1,38 @@
+{
+  "@@locale": "en",
+  "title_input_pin": "To login please enter identification code (PIN) of 6 digits",
+  "login": "Login",
+  "click_here_if_you_forgot_your_PIN": "Click here if you forgot your PIN",
+  "list_of_plants_crops": "Danh sách cây trồng/hoa màu",
+  "register_for_a_business_account": "Register for a business account",
+  "list_seasons": "List seasons",
+  "detail_season": "Chi tiết mùa vụ",
+  "planting_area_details": "Chi tiết vùng trồng",
+  "warehouse_management": "Quản lý kho",
+  "title_warehouse_management_page": "Kho, nơi lưu trữ các loại vật tư, thiết bị cần thiết cho việc trồng trọt",
+  "materials_equipment_tools": "Vật tư, thiết bị, dụng cụ",
+  "list_of_cultivars": "Danh sách giống cây trồng",
+  "post_harvest_products": "Sản phẩm sau thu hoạch",
+  "amount": "Số lượng : {total}",
+  "@amount": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "supplies": "Supplies",
+  "tool": "Tool",
+  "equipment": "Equipment",
+  "characteristics": "Đặc điểm",
+  "seeds": "Hạt giống",
+  "seedling": "Cây giống",
+  "please_enter_the_pin_code": "Vui lòng nhập mã pin",
+  "seasonal_management": "Quản lý mùa vụ",
+  "management_of_equipment_and_materials": "Quản lý thiết bị vật tư",
+  "harvest_list": "Danh sách thu hoạch",
+  "farmer": "Hộ nông dân",
+  "accountInformation": "Thông tin tài khoản",
+  "avatar": "Ảnh đại diện",
+  "changeAvatar": "Đổi ảnh đại diện"
+}
